@@ -1,7 +1,6 @@
-
-<div align="center">
   ![](./profile-3d-contrib/profile-green-animate.svg)
-</div>
+
+
 <div align="center">
   <img
     src="https://render.gitanimals.org/farms/tmdwls2805"
